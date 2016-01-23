@@ -1,2 +1,3 @@
-# greypistachio.github.io
-Static site
+# GP Utils
+
+Assets and complementary tools for greypistachio.com
